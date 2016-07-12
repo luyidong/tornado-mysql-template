@@ -16,3 +16,5 @@ Run demo:
 python ./main.py 8000
 ```
 Then visit http://localhost:8000/
+
+![](https://github.com/luyidong/tornado-mysql-template/blob/master/screen.png)
